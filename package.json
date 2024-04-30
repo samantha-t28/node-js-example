@@ -1,0 +1,27 @@
+{
+  "name": "node-js-example",
+  "version": "1.0.0",
+  "description": "example of node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samantha-t28/node-js-example.git"
+  },
+  "type": "module",
+  "keywords": [
+    "node"
+  ],
+  "author": "samantha-t28",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samantha-t28/node-js-example/issues"
+  },
+  "homepage": "https://github.com/samantha-t28/node-js-example#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
