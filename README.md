@@ -1,8 +1,8 @@
 # Node JS Examples
 
 Documentation: 
-https://nodejs.org/en/learn/getting-started/introduction-to-nodejs
-https://docs.npmjs.com/about-npm
+* https://nodejs.org/en/learn/getting-started/introduction-to-nodejs
+* https://docs.npmjs.com/about-npm
 
 ## What I've learned
 
